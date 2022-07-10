@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kylevantienen
 - 👀 I’m interested in becoming a software engineer
-- 🌱 I’m currently learning Computer Science on EDX enroled in HarvardX CS50
+- 🌱 I’m currently learning how to become a Full-Stack Developer on Codeacademy
 - 💞️ I’m looking to collaborate on anything to help me grow as I start my journey into coding
 - 📫 How to reach me: kylevantienen@outlook.com
 
